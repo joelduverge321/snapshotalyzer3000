@@ -5,4 +5,4 @@ A cloud guru project
 
 This project requires python3 and the requests package.
 
-`python3 snapshotalyzer3000.py`
+`python3 Snapshotalyzer3000.py`
